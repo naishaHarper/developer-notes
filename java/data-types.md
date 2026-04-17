@@ -1,0 +1,3 @@
+## Data Types 
+
+just some notes about data types... 
