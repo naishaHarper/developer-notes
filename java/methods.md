@@ -1,0 +1,3 @@
+## Methods 
+
+just some notes about methods...
