@@ -1,0 +1,3 @@
+## Design Notes 
+
+just some notes about design...
