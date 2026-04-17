@@ -1,1 +1,3 @@
+## Common Errors
 
+just some notes about common errors...
