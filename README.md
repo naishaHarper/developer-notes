@@ -1,4 +1,4 @@
-# developer-notes
+## Developer Notes
 
 This repository is where I keep track of what I'm learning as I build projects and develop my programming skills.
 
