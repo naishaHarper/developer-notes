@@ -1,0 +1,3 @@
+## Lists 
+
+just some notes about lists... 
