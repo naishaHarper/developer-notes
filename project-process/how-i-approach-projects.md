@@ -1,0 +1,3 @@
+## How i Approach Projects 
+
+notes about how i approach projects...
